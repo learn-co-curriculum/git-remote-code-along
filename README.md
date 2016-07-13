@@ -1,4 +1,4 @@
-#Git Remotes + GitHub Code Along
+#Git Remotes + GitHub Code-Along
 
 ##Objectives
 1. Describe GitHub and its relationship with Git
@@ -55,4 +55,4 @@ Perfect! But now the code on our machine (in our local repo) is out of sync with
 git pull
 ``` 
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/git-remote-code-along' title='Git Remotes + GitHub Code Along'>Git Remotes + GitHub Code Along</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/git-remote-code-along' title='Git Remotes + GitHub Code-Along'>Git Remotes + GitHub Code-Along</a> on Learn.co and start learning to code for free.</p>
